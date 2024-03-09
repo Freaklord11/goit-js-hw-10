@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Freaklord11.github.io/goit-js-hw-08",
+  "homepage": "https://Freaklord11.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Freaklord11/goit-js-hw-08.git"
+    "url": "git+https://github.com/Freaklord11/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Rey Allyson Martinez <reyamartinez11@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Freaklord11/goit-js-hw-08/issues"
+    "url": "https://github.com/Freaklord11/goit-js-hw-10/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.21.0",
